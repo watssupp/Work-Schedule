@@ -1,4 +1,8 @@
 # Work-Schedule
+
+**URL:** https://watssupp.github.io/Work-Schedule/
+
+## Description
 This is a work scheduale that allows users to save events for each hour of the day
 
 ## Acceptance Criteria
@@ -24,6 +28,8 @@ This is a work scheduale that allows users to save events for each hour of the d
 - Each time block is colored to indicate whether it occurs in the past, present, or future
 - Each time block has a input field and a save button where users can save changes made to schedule
 - Schedule is compatible with desktop and mobile devices
+
+
 
 ## Screen Shot
 ![Alt text](./Work%20Schedule.png)
