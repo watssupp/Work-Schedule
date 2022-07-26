@@ -1,5 +1,5 @@
 # Work-Schedule
-This is a calender that allows users to save events for each hour of the day
+This is a work scheduale that allows users to save events for each hour of the day
 
 ## Acceptance Criteria
 | Criteria                                                                                      |
@@ -17,6 +17,13 @@ This is a calender that allows users to save events for each hour of the day
 | THEN the text for that event is saved in local storage                                        |
 | WHEN I refresh the page                                                                       |
 | THEN the saved events persist                                                                 |
+
+## Usage
+- Schedule displays time from 8am - 5pm
+- Top of the page shows curent day
+- Each time block is colored to indicate whether it occurs in the past, present, or future
+- Each time block has a input field and a save button where users can save changes made to schedule
+- Schedule is compatible with desktop and mobile devices
 
 ## Screen Shot
 ![Alt text](./Work%20Schedule.png)
