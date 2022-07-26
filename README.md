@@ -2,7 +2,8 @@
 This is a calender that allows users to save events for each hour of the day
 
 ## Acceptance Criteria
-|:----------------------------------------------------------------------------------------------|
+| Criteria                                                                                      |
+| :-------------------------------------------------------------------------------------------- |
 | GIVEN I am using a daily planner to create a schedule                                         |
 | WHEN I open the planner                                                                       |
 | THEN the current day is displayed at the top of the calendar                                  |
@@ -19,3 +20,5 @@ This is a calender that allows users to save events for each hour of the day
 
 ## Screen Shot
 ![Alt text](./Work%20Schedule.png)
+
+
